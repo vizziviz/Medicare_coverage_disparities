@@ -1,0 +1,21 @@
+,Features,RF Feature Importances
+8,submitted_charges_per_service,0.166715
+6,submitted_charges_per_person,0.082571
+7,services_per_person,0.077495
+3,total_submitted_charges,0.052601
+0,number_of_hcpcs,0.043647
+1,number_of_services,0.043515
+5,avg_hcc_risk_score,0.039671
+2,total_beneficiaries,0.032824
+4,avg_beneficiary_age,0.028493
+15,percent_asian,0.024522
+9,total_pop,0.024181
+13,percent_hispanic,0.023993
+16,percent_two_or_more_races,0.023917
+11,percent_white,0.023885
+10,percent_black,0.023582
+12,percent_native_amer,0.021924
+14,percent_other,0.020212
+17,entity_code_I,0.015034
+18,entity_code_O,0.014328
+118,provider_type_Mass Immunizer Roster Biller,0.013808

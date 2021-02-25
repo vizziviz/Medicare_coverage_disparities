@@ -1,0 +1,21 @@
+,features,coef_high
+1,number_of_services,3.261683973219775
+8,submitted_charges_per_service,1.0864647060157264
+7,services_per_person,0.2817459124195493
+75,provider_type_Ambulatory Surgical Center,0.21987410315714764
+133,provider_type_Optometry,0.2175836405981974
+4,avg_beneficiary_age,0.18101498982048372
+92,provider_type_Dermatology,0.1641946575531758
+5,avg_hcc_risk_score,0.16268614767081463
+132,provider_type_Ophthalmology,0.12167890789971651
+11,percent_white,0.11951257314259817
+99,provider_type_General Surgery,0.1069396410366234
+127,provider_type_Neurosurgery,0.09582965458044942
+41,state_MI,0.0886865197711065
+167,provider_type_Urology,0.0756609275062437
+79,provider_type_Cardiac Surgery,0.07269371566121922
+17,entity_code_I,0.0672962074568196
+137,provider_type_Otolaryngology,0.06438570363240921
+96,provider_type_Family Practice,0.06356358785216007
+168,provider_type_Vascular Surgery,0.06031454551613368
+119,provider_type_Maxillofacial Surgery,0.059992533034130185
