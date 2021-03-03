@@ -1,0 +1,3 @@
+,models,"F1 Scores, out-of-box","F1 Scores, Tune1","F1 Scores, Tune2","F1 Scores, Tune3","F1 Scores, Tune4","F1 Scores, Tune5"
+0,Random Forest,0.6569304490198083,0.6585952019064046,0.6564721232495719,0.6553763465961988,0.6577537997932067,0.6555873968779937
+1,Logistic Regression,0.622272977808401,--,--,--,--,--

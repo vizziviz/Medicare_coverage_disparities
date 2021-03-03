@@ -1,0 +1,21 @@
+,Features,Importances
+6,submitted_charges_per_person,0.0953020132148769
+5,avg_hcc_risk_score,0.082012046696585
+8,submitted_charges_per_service,0.06954203061256109
+3,total_submitted_charges,0.06491167129780843
+7,services_per_person,0.05966381316610515
+1,number_of_services,0.05609585686963188
+2,total_beneficiaries,0.05133555673375768
+0,number_of_hcpcs,0.04837114605938834
+4,avg_beneficiary_age,0.03767318351919076
+15,percent_asian,0.03414521179148445
+13,percent_hispanic,0.034011732833813244
+9,total_pop,0.033402492856262636
+16,percent_two_or_more_races,0.03308333620337214
+11,percent_white,0.03260631384979932
+10,percent_black,0.03230160805909319
+12,percent_native_amer,0.02933063076216497
+14,percent_other,0.02926937046224381
+18,entity_code_O,0.015981838414426033
+17,entity_code_I,0.015117165873544709
+118,provider_type_Mass Immunizer Roster Biller,0.014331478933386209

@@ -1,0 +1,106 @@
+,entity_code,state,provider_type,number_of_services,number_of_hcpcs,total_beneficiaries,total_submitted_charges,avg_hcc_risk_score,submitted_charges_per_person,services_per_person,submitted_charges_per_service,region,subregion,total_pop,majority,ytest,ypred
+2394,I,MS,Nurse Practitioner,108.0,28,44,4970.1,1.1361,112.96,2.45,46.02,South,East South Central,27109.0,no_majority,low,very high
+6000,I,NY,Nurse Practitioner,25.0,2,13,470.0,0.9095,36.15,1.92,18.8,Northeast,Middle Atlantic,49068.0,no_majority,low,very high
+9321,I,OK,Family Practice,1096.0,25,443,28018.0,1.0019,63.25,2.47,25.56,South,West South Central,6213.0,majority_white,low,very high
+14825,I,VA,Family Practice,64.0,13,45,1594.68,1.1833,35.44,1.42,24.92,South,South Atlantic,30478.0,majority_white,low,very high
+15209,I,WA,Nurse Practitioner,44.0,8,29,1611.67,1.3272,55.57,1.52,36.63,West,Pacific,12445.0,majority_white,low,very high
+16350,I,NC,Nurse Practitioner,24.0,1,24,384.0,1.3122,16.0,1.0,16.0,South,South Atlantic,25792.0,majority_white,low,very high
+19016,I,TN,Nurse Practitioner,59.0,10,23,2778.88,1.7114,120.82,2.57,47.1,South,East South Central,35754.0,majority_white,low,very high
+21599,I,MA,Nurse Practitioner,45.0,7,43,1145.0,1.7688,26.63,1.05,25.44,Northeast,New England,13516.0,majority_white,low,very high
+23592,I,AL,Nurse Practitioner,14.0,5,12,118.22,1.9745,9.85,1.17,8.44,South,East South Central,5961.0,majority_white,low,very high
+30096,I,CA,Internal Medicine,339.0,30,110,10664.66,1.2886,96.95,3.08,31.46,West,Pacific,61216.0,majority_hispanic,low,very high
+30103,I,GA,Nurse Practitioner,38.0,6,20,2073.37,1.4284,103.67,1.9,54.56,South,South Atlantic,58114.0,majority_black,low,very high
+36070,I,IN,Psychiatry,36.0,3,23,1391.0,1.476,60.48,1.57,38.64,Midwest,East North Central,15728.0,majority_black,low,very high
+38603,I,PA,Nurse Practitioner,23.0,7,16,922.0,1.147,57.62,1.44,40.09,Northeast,Middle Atlantic,39641.0,majority_white,low,very high
+39839,I,WA,Internal Medicine,61.0,17,28,835.56,1.0629,29.84,2.18,13.7,West,Pacific,14144.0,no_majority,low,very high
+41092,I,MI,Family Practice,64.0,7,30,2606.0,1.2679,86.87,2.13,40.72,Midwest,East North Central,3992.0,majority_white,low,very high
+41910,I,WA,Nurse Practitioner,14.0,6,14,337.0,1.0199,24.07,1.0,24.07,West,Pacific,1844.0,majority_white,low,very high
+42165,I,IA,Family Practice,26.0,4,15,1222.04,1.2468,81.47,1.73,47.0,Midwest,West North Central,1606.0,majority_white,low,very high
+42530,I,MO,Family Practice,1656.0,52,372,57178.0,1.0757,153.7,4.45,34.53,Midwest,West North Central,1499.0,majority_white,low,very high
+45570,I,MN,Family Practice,299.0,16,67,3705.0,1.4149,55.3,4.46,12.39,Midwest,West North Central,41671.0,no_majority,low,very high
+46299,I,OR,Licensed Clinical Social Worker,31.0,1,24,1323.0,1.9061,55.12,1.29,42.68,West,Pacific,23027.0,majority_white,low,very high
+47292,I,NY,Nurse Practitioner,21.0,2,17,980.0,1.6596,57.65,1.24,46.67,Northeast,Middle Atlantic,23951.0,no_majority,low,very high
+53531,I,LA,Registered Dietitian or Nutrition Professional,206.0,2,46,17696.36,1.4555,384.7,4.48,85.9,South,West South Central,36307.0,majority_white,low,very high
+53747,I,LA,Nurse Practitioner,177.0,13,69,3515.0,1.1089,50.94,2.57,19.86,South,West South Central,16484.0,majority_white,low,very high
+54612,I,TN,Nurse Practitioner,360.0,25,158,11709.0,1.2918,74.11,2.28,32.52,South,East South Central,6487.0,majority_white,low,very high
+55532,I,MS,Family Practice,802.0,32,149,19059.0,1.5929,127.91,5.38,23.76,South,East South Central,32526.0,majority_black,low,very high
+57583,I,VA,Family Practice,420.0,10,154,10953.0,1.2503,71.12,2.73,26.08,South,South Atlantic,4993.0,majority_white,low,very high
+59699,I,WA,Registered Dietitian or Nutrition Professional,37.0,3,17,4199.0,1.8382,247.0,2.18,113.49,West,Pacific,23278.0,majority_white,low,very high
+63998,I,MA,Nurse Practitioner,23.0,11,18,741.0,1.1588,41.17,1.28,32.22,Northeast,New England,43604.0,majority_white,low,very high
+65749,I,IL,Family Practice,53.0,11,34,2182.81,1.4685,64.2,1.56,41.19,Midwest,East North Central,75995.0,majority_white,low,very high
+70762,I,ME,Family Practice,625.0,13,125,30131.0,1.1044,241.05,5.0,48.21,Northeast,New England,2193.0,majority_white,low,very high
+73483,I,CA,Physician Assistant,215.0,16,187,125223.0,2.2457,669.64,1.15,582.43,West,Pacific,55269.0,majority_hispanic,low,very high
+75413,I,RI,Internal Medicine,43.0,8,22,1465.0,1.8307,66.59,1.95,34.07,Northeast,New England,29153.0,majority_white,low,very high
+75935,I,CA,Family Practice,33.0,6,22,649.0,1.0453,29.5,1.5,19.67,West,Pacific,30502.0,majority_white,low,very high
+79749,I,PA,Family Practice,31.0,4,30,551.0,0.8852,18.37,1.03,17.77,Northeast,Middle Atlantic,2323.0,majority_white,low,very high
+80899,I,AR,Nurse Practitioner,175.0,24,84,7523.57,1.1634,89.57,2.08,42.99,South,West South Central,15192.0,majority_white,low,very high
+81734,I,UT,Diagnostic Radiology,360.0,18,303,41878.0,1.0696,138.21,1.19,116.33,West,Mountain,52103.0,no_majority,low,very high
+87465,I,NC,Physician Assistant,453.0,30,159,16008.76,1.5357,100.68,2.85,35.34,South,South Atlantic,15183.0,majority_native_amer,low,very high
+91961,I,CA,General Practice,415.0,20,86,7239.19,1.245,84.18,4.83,17.44,West,Pacific,30922.0,majority_hispanic,low,very high
+92895,O,GA,Clinical Laboratory,1286.0,3,558,286208.0,1.4325,512.92,2.3,222.56,South,South Atlantic,75514.0,majority_black,low,very high
+96388,I,PA,Diagnostic Radiology,87.0,12,30,3115.82,0.7746,103.86,2.9,35.81,Northeast,Middle Atlantic,27758.0,majority_white,low,very high
+98308,I,OR,Family Practice,52.0,10,23,1253.53,1.7528,54.5,2.26,24.11,West,Pacific,12096.0,majority_white,low,very high
+98832,I,MS,Nurse Practitioner,17.0,4,15,682.64,1.3778,45.51,1.13,40.16,South,East South Central,12418.0,no_majority,low,very high
+100315,I,TX,Registered Dietitian or Nutrition Professional,1207.0,2,131,76859.0,1.2094,586.71,9.21,63.68,South,West South Central,15805.0,majority_white,low,very high
+100533,I,CA,Registered Dietitian or Nutrition Professional,151.0,3,20,8862.0,1.0697,443.1,7.55,58.69,West,Pacific,35845.0,no_majority,low,very high
+101546,I,WA,Nurse Practitioner,77.0,28,34,2254.77,1.1583,66.32,2.26,29.28,West,Pacific,51998.0,majority_white,low,very high
+102092,I,FL,Nurse Practitioner,93.0,9,37,1045.58,1.8557,28.26,2.51,11.24,South,South Atlantic,49312.0,no_majority,low,very high
+102452,I,FL,Internal Medicine,19.0,2,15,546.0,1.3152,36.4,1.27,28.74,South,South Atlantic,19986.0,no_majority,low,very high
+104565,I,OH,Nurse Practitioner,70.0,7,28,2187.0,1.0116,78.11,2.5,31.24,Midwest,East North Central,32833.0,majority_white,low,very high
+105452,I,WV,Family Practice,1499.3,41,446,29114.25,1.1241,65.28,3.36,19.42,South,South Atlantic,30672.0,majority_white,low,very high
+107150,I,WA,Nurse Practitioner,180.0,10,128,5830.0,1.4622,45.55,1.41,32.39,West,Pacific,6503.0,majority_white,low,very high
+107762,I,CA,Family Practice,673.0,3,390,8496.11,0.7941,21.78,1.73,12.62,West,Pacific,17910.0,majority_white,low,very high
+113552,I,OR,Family Practice,141.0,7,52,5836.51,2.1105,112.24,2.71,41.39,West,Pacific,38160.0,majority_white,low,very high
+114283,I,CA,Registered Dietitian or Nutrition Professional,232.0,2,47,21234.0,1.2409,451.79,4.94,91.53,West,Pacific,53072.0,no_majority,low,very high
+114398,I,MI,Nurse Practitioner,63.0,5,56,2685.0,1.409,47.95,1.12,42.62,Midwest,East North Central,7346.0,majority_white,low,very high
+117746,I,WI,Registered Dietitian or Nutrition Professional,150.0,4,36,14985.0,1.517,416.25,4.17,99.9,Midwest,East North Central,14165.0,majority_white,low,very high
+120192,I,PA,Certified Nurse Midwife,37.0,5,18,1371.0,1.117,76.17,2.06,37.05,Northeast,Middle Atlantic,39641.0,majority_white,low,very high
+125595,I,CA,Internal Medicine,116.0,13,66,1823.59,1.4051,27.63,1.76,15.72,West,Pacific,56406.0,no_majority,low,very high
+137381,I,CA,Physician Assistant,72.0,4,23,1295.78,0.8701,56.34,3.13,18.0,West,Pacific,65016.0,majority_hispanic,low,very high
+139116,I,CA,Family Practice,23.0,16,16,1102.02,1.2041,68.88,1.44,47.91,West,Pacific,12028.0,no_majority,low,very high
+143109,I,TX,Registered Dietitian or Nutrition Professional,224.0,2,36,12530.0,1.4453,348.06,6.22,55.94,South,West South Central,8.0,no_majority,low,very high
+146344,I,IL,Nurse Practitioner,27.0,3,20,740.0,0.8376,37.0,1.35,27.41,Midwest,East North Central,58797.0,majority_hispanic,low,very high
+146485,I,NY,Pulmonary Disease,212.0,4,74,8543.54,1.3707,115.45,2.86,40.3,Northeast,Middle Atlantic,19201.0,majority_white,low,very high
+147457,I,OK,Family Practice,45.0,1,11,1547.0,0.6857,140.64,4.09,34.38,South,West South Central,12683.0,no_majority,low,very high
+149397,I,SD,Family Practice,103.0,5,47,3124.14,2.0417,66.47,2.19,30.33,Midwest,West North Central,16876.0,majority_white,low,very high
+151277,I,CA,Internal Medicine,983.0,4,741,22463.0,1.3897,30.31,1.33,22.85,West,Pacific,21462.0,majority_white,low,very high
+152165,I,NY,Nurse Practitioner,172.0,6,11,741.25,0.7757,67.39,15.64,4.31,Northeast,Middle Atlantic,6581.0,no_majority,low,very high
+152649,I,NY,Internal Medicine,23.0,2,12,580.0,2.3431,48.33,1.92,25.22,Northeast,Middle Atlantic,88349.0,no_majority,low,very high
+153487,O,WA,Slide Preparation Facility,1878.0,3,745,454804.0,0.9048,610.48,2.52,242.17,West,Pacific,39766.0,majority_white,low,very high
+155114,I,IN,Nurse Practitioner,196.0,15,86,8097.5,1.7983,94.16,2.28,41.31,Midwest,East North Central,43684.0,majority_white,low,very high
+155725,I,NM,Nurse Practitioner,50.0,7,26,1053.7,1.0903,40.53,1.92,21.07,West,Mountain,22991.0,majority_hispanic,low,very high
+156063,I,IA,Physician Assistant,699.0,55,211,33571.0,0.9401,159.1,3.31,48.03,Midwest,West North Central,2036.0,majority_white,low,very high
+160635,I,IN,Nurse Practitioner,50.0,8,28,2723.0,0.8082,97.25,1.79,54.46,Midwest,East North Central,47857.0,majority_white,low,very high
+161340,I,NM,Physician Assistant,18.0,4,15,284.0,1.2772,18.93,1.2,15.78,West,Mountain,1469.0,majority_hispanic,low,very high
+162340,I,CT,Obstetrics & Gynecology,177.0,4,85,14839.65,0.8052,174.58,2.08,83.84,Northeast,New England,28234.0,majority_white,low,very high
+163107,I,MN,Nurse Practitioner,209.0,10,174,5943.0,1.3543,34.16,1.2,28.44,Midwest,West North Central,10435.0,majority_white,low,very high
+164036,I,WA,Physician Assistant,132.0,13,66,3086.5,0.7483,46.77,2.0,23.38,West,Pacific,16315.0,majority_hispanic,low,very high
+165418,I,MI,Family Practice,41.0,7,26,778.7,1.1742,29.95,1.58,18.99,Midwest,East North Central,16371.0,majority_white,low,very high
+167888,I,IL,Nurse Practitioner,119.0,11,68,5601.0,1.1475,82.37,1.75,47.07,Midwest,East North Central,13663.0,majority_white,low,very high
+168186,I,TN,Nurse Practitioner,57.0,8,12,2031.0,1.3232,169.25,4.75,35.63,South,East South Central,25470.0,majority_white,low,very high
+168323,I,AL,Nurse Practitioner,51.0,16,28,812.0,1.0165,29.0,1.82,15.92,South,East South Central,17259.0,majority_white,low,very high
+168487,I,NC,Registered Dietitian or Nutrition Professional,535.0,3,73,26679.0,1.0459,365.47,7.33,49.87,South,South Atlantic,54621.0,no_majority,low,very high
+169300,I,ME,Family Practice,130.0,1,101,5200.0,1.4423,51.49,1.29,40.0,Northeast,New England,9162.0,majority_white,low,very high
+170420,I,VT,Family Practice,722.0,40,329,21896.0,1.0326,66.55,2.19,30.33,Northeast,New England,545.0,majority_white,low,very high
+171505,I,NC,Nurse Practitioner,98.0,18,40,3980.92,1.2492,99.52,2.45,40.62,South,South Atlantic,1961.0,no_majority,low,very high
+172716,I,NC,Nurse Practitioner,50.0,16,14,1861.0,1.3303,132.93,3.57,37.22,South,South Atlantic,25037.0,majority_white,low,very high
+177262,I,AZ,Family Practice,23.0,16,15,977.0,1.454,65.13,1.53,42.48,West,Mountain,56450.0,no_majority,low,very high
+181969,I,CT,Physician Assistant,35.0,6,17,684.0,1.2984,40.24,2.06,19.54,Northeast,New England,37819.0,majority_hispanic,low,very high
+186929,O,KS,Clinical Laboratory,1695.0,8,1049,183262.08,1.1853,174.7,1.62,108.12,Midwest,West North Central,10781.0,majority_white,low,very high
+187590,I,NY,Physician Assistant,32.0,11,13,701.25,1.3907,53.94,2.46,21.91,Northeast,Middle Atlantic,59609.0,majority_hispanic,low,very high
+189133,I,SC,Family Practice,461.0,15,121,11454.54,1.1228,94.67,3.81,24.85,South,South Atlantic,4986.0,majority_white,low,very high
+189687,I,MA,Family Practice,43.0,5,32,1656.0,1.6558,51.75,1.34,38.51,Northeast,New England,23040.0,no_majority,low,very high
+190466,I,GA,Nurse Practitioner,55.0,8,37,2474.55,2.2845,66.88,1.49,44.99,South,South Atlantic,23685.0,no_majority,low,very high
+192951,I,WA,Nurse Practitioner,36.0,2,18,1620.0,1.8252,90.0,2.0,45.0,West,Pacific,31551.0,majority_white,low,very high
+195527,I,NC,Family Practice,51.0,16,22,1306.0,0.9269,59.36,2.32,25.61,South,South Atlantic,8095.0,majority_white,low,very high
+197117,I,CA,Physician Assistant,159.0,20,89,3587.0,1.1896,40.3,1.79,22.56,West,Pacific,1554.0,majority_white,low,very high
+197764,I,TX,Registered Dietitian or Nutrition Professional,272.0,2,70,29735.0,1.1553,424.79,3.89,109.32,South,West South Central,27175.0,majority_white,low,very high
+199493,O,GA,Clinic or Group Practice,343.0,3,110,37569.52,0.9172,341.54,3.12,109.53,South,South Atlantic,43716.0,majority_white,low,very high
+201646,I,VA,Family Practice,371.0,25,222,10385.0,1.3199,46.78,1.67,27.99,South,South Atlantic,9937.0,majority_white,low,very high
+203818,I,FL,Nurse Practitioner,29.0,5,20,774.0,0.7296,38.7,1.45,26.69,South,South Atlantic,50992.0,no_majority,low,very high
+205698,I,CA,Physician Assistant,113.0,27,50,3374.68,1.1464,67.49,2.26,29.86,West,Pacific,58742.0,majority_white,low,very high
+206650,O,MA,Clinical Laboratory,428.0,8,171,33270.77,1.2961,194.57,2.5,77.74,Northeast,New England,39776.0,majority_white,low,very high
+206774,I,IL,Physician Assistant,127.0,8,83,1711.58,1.0827,20.62,1.53,13.48,Midwest,East North Central,15787.0,majority_white,low,very high
+207696,I,AR,Nurse Practitioner,79.0,12,47,1678.52,1.271,35.71,1.68,21.25,South,West South Central,56445.0,no_majority,low,very high
+212386,I,CO,Oral Surgery (Dentist only),28.0,5,16,1055.52,0.7716,65.97,1.75,37.7,West,Mountain,25690.0,majority_white,low,very high
+213247,I,AR,Nurse Practitioner,38.0,13,22,1737.86,1.2901,78.99,1.73,45.73,South,West South Central,3671.0,majority_black,low,very high
