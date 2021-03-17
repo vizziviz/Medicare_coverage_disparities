@@ -1,21 +1,189 @@
 ,Features,Importances
-6,submitted_charges_per_person,0.0953020132148769
-5,avg_hcc_risk_score,0.082012046696585
-8,submitted_charges_per_service,0.06954203061256109
-3,total_submitted_charges,0.06491167129780843
-7,services_per_person,0.05966381316610515
-1,number_of_services,0.05609585686963188
-2,total_beneficiaries,0.05133555673375768
-0,number_of_hcpcs,0.04837114605938834
-4,avg_beneficiary_age,0.03767318351919076
-15,percent_asian,0.03414521179148445
-13,percent_hispanic,0.034011732833813244
-9,total_pop,0.033402492856262636
-16,percent_two_or_more_races,0.03308333620337214
-11,percent_white,0.03260631384979932
-10,percent_black,0.03230160805909319
-12,percent_native_amer,0.02933063076216497
-14,percent_other,0.02926937046224381
-18,entity_code_O,0.015981838414426033
-17,entity_code_I,0.015117165873544709
-118,provider_type_Mass Immunizer Roster Biller,0.014331478933386209
+6,submitted_charges_per_person,0.08746572078398668
+5,avg_hcc_risk_score,0.07339684530353313
+8,submitted_charges_per_service,0.06356907004683815
+3,total_submitted_charges,0.060680638423449104
+7,services_per_person,0.05496965605312568
+1,number_of_services,0.0511976333695226
+2,total_beneficiaries,0.043839592354941066
+0,number_of_hcpcs,0.04362919103531045
+15,percent_asian,0.03374738649183559
+9,total_pop,0.033417678488218285
+4,avg_beneficiary_age,0.03326280445361248
+16,percent_two_or_more_races,0.03317646108804635
+13,percent_hispanic,0.032948304871390915
+10,percent_black,0.03262108477320846
+11,percent_white,0.03200927957503837
+12,percent_native_amer,0.03030228148110709
+14,percent_other,0.027976301813672246
+18,entity_code_O,0.01806783554072499
+17,entity_code_I,0.017667232003179892
+118,provider_type_Mass Immunizer Roster Biller,0.012099289023542334
+84,provider_type_Certified Registered Nurse Anesthetist (CRNA),0.007733478892645846
+133,provider_type_Optometry,0.007580823282530258
+76,provider_type_Anesthesiology,0.006293459180091574
+85,provider_type_Chiropractic,0.006086711065612563
+144,provider_type_Physical Therapist in Private Practice,0.004692404270230156
+112,provider_type_Internal Medicine,0.0040284427931608704
+129,provider_type_Nurse Practitioner,0.003857653342634822
+96,provider_type_Family Practice,0.0036700644087647246
+171,region_South,0.0034766322711941937
+170,region_Northeast,0.0032730703845029563
+179,subregion_South Atlantic,0.003244918622818969
+186,majority_majority_white,0.003214750928098799
+169,region_Midwest,0.003187018224280572
+187,majority_no_majority,0.003014767819697131
+130,provider_type_Obstetrics & Gynecology,0.002999197084864357
+145,provider_type_Physician Assistant,0.0029811535671162583
+173,subregion_East North Central,0.0029083625713407614
+81,provider_type_Centralized Flu,0.0028719122971167677
+175,subregion_Middle Atlantic,0.002827132508678583
+172,region_West,0.002679874376208866
+139,provider_type_Pathology,0.00264202666081702
+181,subregion_West South Central,0.0025133027542161633
+178,subregion_Pacific,0.002468263020817299
+93,provider_type_Diagnostic Radiology,0.0024370791054788036
+28,state_FL,0.0024137678621564095
+23,state_CA,0.0022940749166121036
+53,state_NY,0.002263057076799202
+180,subregion_West North Central,0.0022218038217482407
+94,provider_type_Emergency Medicine,0.0022039577938971324
+132,provider_type_Ophthalmology,0.0020935335581284196
+62,state_TX,0.00200936920777055
+174,subregion_East South Central,0.0018961513784673941
+177,subregion_New England,0.0018602746717104434
+156,provider_type_Registered Dietitian or Nutrition Professional,0.0018136267310237882
+33,state_IL,0.0017875660786435175
+41,state_MI,0.0017727138378929835
+176,subregion_Mountain,0.0017661913580519037
+54,state_OH,0.0017589056075746066
+57,state_PA,0.001741948908260807
+147,provider_type_Podiatry,0.001708129849910044
+46,state_NC,0.0016008347519870085
+29,state_GA,0.0015729288177927527
+67,state_WI,0.001538502053597551
+74,provider_type_Ambulance Service Provider,0.001534623637202867
+92,provider_type_Dermatology,0.0015130664663165184
+184,majority_majority_hispanic,0.0014842608424608986
+50,state_NJ,0.0014785820753954056
+135,provider_type_Orthopedic Surgery,0.0014430253298857224
+183,majority_majority_black,0.0013650705878367438
+38,state_MA,0.0013312821552216637
+64,state_VA,0.001320424889663641
+39,state_MD,0.0012784600235625511
+61,state_TN,0.0012426124646967153
+34,state_IN,0.001229567995411036
+42,state_MN,0.0012145063963891793
+43,state_MO,0.001150279668742285
+66,state_WA,0.0011187641590864501
+151,"provider_type_Psychologist, Clinical",0.0010592068237988417
+150,provider_type_Psychiatry,0.0010322954137586536
+22,state_AZ,0.0010264103859930135
+59,state_SC,0.001011134413597987
+88,provider_type_Clinical Laboratory,0.0010088477216111745
+24,state_CO,0.0009586616813826048
+56,state_OR,0.0009586545553046436
+80,provider_type_Cardiology,0.0008912477133637544
+108,provider_type_Hospitalist,0.0008831213538791566
+37,state_LA,0.0008667985171482548
+25,state_CT,0.0008663219179030858
+116,provider_type_Licensed Clinical Social Worker,0.00086441046191618
+36,state_KY,0.0008519276363004234
+99,provider_type_General Surgery,0.0008490173159898846
+20,state_AL,0.0007973196061407916
+97,provider_type_Gastroenterology,0.0007578489721985293
+31,state_IA,0.0007410224254050122
+125,provider_type_Neurology,0.0007140854917676894
+35,state_KS,0.0007023921204486779
+21,state_AR,0.00068002170292278
+78,provider_type_Audiologist,0.000651048512968177
+95,provider_type_Endocrinology,0.000645098937067651
+55,state_OK,0.0006359452737029605
+105,provider_type_Hematology-Oncology,0.0006299638975604811
+167,provider_type_Urology,0.0006080930506742563
+52,state_NV,0.0005899513226863382
+109,provider_type_Independent Diagnostic Testing Facility (IDTF),0.00058782857892962
+44,state_MS,0.0005818617186690465
+153,provider_type_Pulmonary Disease,0.0005500482153767127
+75,provider_type_Ambulatory Surgical Center,0.0005395526609589251
+48,state_NE,0.0005391393267751964
+143,provider_type_Physical Medicine and Rehabilitation,0.0005091568551186995
+154,provider_type_Radiation Oncology,0.000507306860264593
+63,state_UT,0.0005040980087720969
+131,provider_type_Occupational Therapist in Private Practice,0.000501366202481129
+68,state_WV,0.0004956318556892391
+98,provider_type_General Practice,0.00046595149683279136
+137,provider_type_Otolaryngology,0.0004643112964561084
+40,state_ME,0.00044032939769229125
+77,provider_type_Anesthesiology Assistant,0.0004367932678448248
+32,state_ID,0.0004096295660532168
+49,state_NH,0.00040113639072033756
+157,provider_type_Rheumatology,0.0003673926771307448
+58,state_RI,0.0003629133407608817
+51,state_NM,0.0003568861935271699
+182,majority_majority_asian,0.0003434240749764479
+146,provider_type_Plastic and Reconstructive Surgery,0.0003389532975931594
+30,state_HI,0.00033516845570880733
+124,provider_type_Nephrology,0.0003286566759993509
+27,state_DE,0.00032488209353682284
+110,provider_type_Infectious Disease,0.00032243355303709567
+121,provider_type_Medical Oncology,0.00030811319137639406
+26,state_DC,0.00030398477769074983
+90,provider_type_Critical Care (Intensivists),0.00029156374147545596
+45,state_MT,0.00028903950982424575
+60,state_SD,0.000283465310041993
+47,state_ND,0.0002783010418793296
+65,state_VT,0.00024759124546281383
+82,provider_type_Certified Clinical Nurse Specialist,0.00020308908217224293
+19,state_AK,0.00020179721571578907
+127,provider_type_Neurosurgery,0.00019456592995630747
+140,provider_type_Pediatric Medicine,0.00018947617197409526
+100,provider_type_Geriatric Medicine,0.00017850149890471617
+69,state_WY,0.00017739348624833823
+138,provider_type_Pain Management,0.00016585927156394977
+163,provider_type_Thoracic Surgery,0.00016311255332008726
+73,provider_type_Allergy/ Immunology,0.0001616043914293351
+79,provider_type_Cardiac Surgery,0.00015074773634458815
+134,provider_type_Oral Surgery (Dentist only),0.00014874472188870368
+83,provider_type_Certified Nurse Midwife,0.00014393045903677155
+168,provider_type_Vascular Surgery,0.00012818183069775564
+115,provider_type_Interventional Radiology,0.0001267703164519003
+114,provider_type_Interventional Pain Management,0.00012575714560341165
+160,provider_type_Speech Language Pathologist,0.00011822173085892186
+113,provider_type_Interventional Cardiology,0.00011591438994620714
+107,provider_type_Hospice and Palliative Care,0.00011022630656503232
+119,provider_type_Maxillofacial Surgery,0.00010193798553962015
+142,provider_type_Pharmacy,8.193890133565688e-05
+185,majority_majority_native_amer,7.925609951075578e-05
+89,provider_type_Colorectal Surgery (Proctology),7.730237664100464e-05
+161,provider_type_Sports Medicine,7.224444415502792e-05
+87,provider_type_Clinical Cardiac Electrophysiology,7.188478732127712e-05
+128,provider_type_Nuclear Medicine,6.630737718460937e-05
+104,provider_type_Hematology,6.543912887754554e-05
+162,provider_type_Surgical Oncology,6.433023559692194e-05
+102,provider_type_Gynecological Oncology,6.104043451380251e-05
+136,provider_type_Osteopathic Manipulative Medicine,5.412162402018006e-05
+103,provider_type_Hand Surgery,5.1574139012851345e-05
+148,provider_type_Portable X-Ray Supplier,4.2113506865370884e-05
+149,provider_type_Preventive Medicine,3.775369675514817e-05
+164,provider_type_Undefined Physician type,3.6907202486518774e-05
+158,provider_type_Sleep Medicine,3.64961042015154e-05
+70,provider_type_Addiction Medicine,3.460319651722909e-05
+86,provider_type_Clinic or Group Practice,1.815382242656286e-05
+71,provider_type_Advanced Heart Failure and Transplant Cardiology,1.7676162960860712e-05
+101,provider_type_Geriatric Psychiatry,1.6940708927579818e-05
+126,provider_type_Neuropsychiatry,1.1600354824758855e-05
+106,provider_type_Hematopoietic Cell Transplantation and Cellular Therapy,1.0975416198161563e-05
+152,provider_type_Public Health or Welfare Agency,7.991314897403067e-06
+72,provider_type_All Other Suppliers,5.702797001504382e-06
+159,provider_type_Slide Preparation Facility,5.679281762426908e-06
+117,provider_type_Mammography Center,4.647136009390122e-06
+155,provider_type_Radiation Therapy Center,4.639501278146579e-06
+91,provider_type_Dentist,4.441765667582469e-06
+122,provider_type_Medical Toxicology,2.3940116279541905e-06
+141,provider_type_Peripheral Vascular Disease,2.3634028029028993e-06
+166,provider_type_Unknown Supplier/Provider Specialty,5.845864928694983e-07
+120,provider_type_Medical Genetics and Genomics,4.163134122169753e-07
+111,provider_type_Intensive Cardiac Rehabilitation,2.2040246398304757e-07
+123,provider_type_Medicare Diabetes Preventive Program,1.8056786580235683e-08
+165,provider_type_Undersea and Hyperbaric Medicine,0.0
