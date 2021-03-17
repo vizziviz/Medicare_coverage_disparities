@@ -1,7 +1,0 @@
-,entity_code,state,provider_type,number_of_services,number_of_hcpcs,total_beneficiaries,total_submitted_charges,avg_hcc_risk_score,submitted_charges_per_person,services_per_person,submitted_charges_per_service,region,subregion,total_pop,majority,ytest,ypred_rf
-3199,I,OH,Certified Registered Nurse Anesthetist (CRNA),126.0,45,124,84545.0,2.3444,681.81,1.02,670.99,Midwest,East North Central,4799.0,no_majority,very high,very low
-5157,I,IL,Occupational Therapist in Private Practice,1144.0,6,32,114941.73,0.9906,3591.93,35.75,100.47,Midwest,East North Central,34945.0,majority_white,very high,very low
-7704,O,OH,Mass Immunizer Roster Biller,232.0,8,97,11041.84,1.1052,113.83,2.39,47.59,Midwest,East North Central,19217.0,majority_white,very high,very low
-11335,I,MD,Cardiology,2148.0,36,1420,283893.0,2.8987,199.92,1.51,132.17,South,South Atlantic,50433.0,majority_white,very high,very low
-13756,I,MD,Anesthesiology,425.0,87,388,959524.0,1.8271,2473.0,1.1,2257.7,South,South Atlantic,21628.0,majority_white,very high,very low
-17822,I,IL,Nurse Practitioner,1240.0,36,472,119735.0,1.7479,253.68,2.63,96.56,Midwest,East North Central,20460.0,majority_white,very high,very low
