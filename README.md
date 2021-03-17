@@ -21,7 +21,7 @@ See Models/Processing
 # Modeling
 See Models/Modeling
 
-# Feature Selectino
+# Feature Selection
 See Models/Feature_selection
 
 # Documentation
