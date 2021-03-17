@@ -25,4 +25,5 @@ See Models/Modeling
 See Models/Feature_selection
 
 # Documentation
-See Documentation.pdf
+See Documentation.pdf for report
+See Medicare Racial Disparity for pdf of PowerPoint presentation
