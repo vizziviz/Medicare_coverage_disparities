@@ -1,3 +1,5 @@
+# Disparities in Medicare: Investigating Disparate Impacts in Coverage
+
 ![Screenshot 2021-03-18 11 59 47 AM](https://user-images.githubusercontent.com/64040862/111657204-97da7580-87e1-11eb-8b88-0183dd7883c9.png)
 
 # Problem Identification and Data Sourcing
